@@ -35,32 +35,6 @@ Example command to run a notebook:
 
 jupyter notebook report\ 1.ipynb
 
-# Repository Structure
-
-Applied-Analytics/
-├── Case study 3.ipynb            # Case study notebook
-├── report 1.ipynb                # First report notebook
-├── report 2.ipynb                # Second report notebook
-├── report 3.ipynb                # Third report notebook
-├── Applied Analytics final report.pdf  # Final report in PDF format
-├── README.md                     # This file
-
-# Contributing
-
-Contributions are welcome! To contribute:
-
-Fork the repository.
-
-Create a new branch (git checkout -b feature/your-feature).
-
-Make your changes and commit (git commit -m "Add your feature").
-
-Push to the branch (git push origin feature/your-feature).
-
-Open a Pull Request.
-
-Please ensure your code follows the project's coding standards and includes appropriate documentation.
-
 # Contact
 
 For questions or suggestions, feel free to open an issue or contact the maintainer at majdi.makai@gmail.com.
