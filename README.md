@@ -4,7 +4,9 @@ Welcome to the Applied-Analytics repository! This project showcases a collection
 
 # Table of Contents
 Project Overview
+
 Files Description
+
 Usage
 
 # Project Overview
